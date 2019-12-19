@@ -7,3 +7,4 @@ add merge no ff.
 fix bug 101
 test stash.
 test stash begin.
+test stash doing.
